@@ -15,7 +15,7 @@ Implemented a comprehensive data-driven strategy for analyzing patient demograph
 ![healthcare dashboard] (images/dashboard_healthcare.jpg)
 
 ### OPM Real Estate Sales Analysis
-[check out on Github] (link)
+[check out on Github](link)
 
 Executed a robust analysis of over a million real estate sales records using SQL for data preprocessing, and Excel, Google Sheets, and Tableau for analysis and visualization. This approach identified key performance indicators such as total sales, total profits, and the number of properties sold, revealing significant correlations and trends. Rigorous data cleaning and validation ensured data integrity, making this project a reliable tool for market analysis. The resulting comprehensive dashboard provides stakeholders with valuable insights for strategic decision-making in real estate investments.
 
@@ -42,4 +42,5 @@ This project focused on wrangling and analyzing data from the WeRateDogs Twitter
 
 ### prosperLoans Exploratory analysis
 [check out on Github](link)
+
 Launching into a comprehensive analysis, this project delves into Prosper's dataset, spanning 113,937 loan listings from Q4-2005 to Q1-2014. With 81 variables covering borrower profiles, loan performance, and listing specifics, our approach employs meticulous Exploratory Data Analysis (EDA) to uncover patterns and anomalies. By integrating robust data validation, our goal is to derive actionable insights empowering stakeholders to refine loan underwriting, fortify risk management, and optimize portfolio performance in peer-to-peer lending
