@@ -3,7 +3,7 @@
 
 ####  SQL Server | Python | Tableau | Microsoft office | BI | 
 
-#### ![Email](/images/mail.png) : kathisnehithreddy@gmail.com
+#### ![Email]<img src="/images/mail.png" width="100" height="100"/> : kathisnehithreddy@gmail.com
 #### ![Linkedin](/images/linkedin.png) (https://www.linkedin.com/snehithreddykathi)
 
 ## PROJECTS
