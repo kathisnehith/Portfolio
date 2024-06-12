@@ -1,9 +1,9 @@
 #Data Analyst
-(/images.ProfilePicture.jpg)
+(/images/ProfilePicture.jpg)
 
 ####  SQL Server | Python | Tableau | Microsoft office | BI | 
 
-#### ![Email](/images/email.png) : kathisnehithreddy@gmail.com
+#### ![Email](/images/mail.png) : kathisnehithreddy@gmail.com
 #### ![Linkedin](/images/linkedin.png) (https://www.linkedin.com/snehithreddykathi)
 
 ## PROJECTS
