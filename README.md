@@ -1,14 +1,13 @@
-#Data Analyst
-(/images/ProfilePicture.jpg)
+# Data Analyst <img src="/images/ProfilePicture.jpg" width="40" height="40"/>
 
-####  SQL Server | Python | Tableau | Microsoft office | BI | 
+###  SQL Server | Python | Tableau | Microsoft office | BI | 
 
-#### ![Email]<img src="/images/mail.png" width="100" height="100"/> : kathisnehithreddy@gmail.com
-#### ![Linkedin](/images/linkedin.png) (https://www.linkedin.com/snehithreddykathi)
+<img src="/images/mail.png" width="20" height="20"/>  kathisnehithreddy@gmail.com
+<img src="/images/linkedin.png" width="30" height="30"/> https://www.linkedin.com/snehithreddykathi
 
 ## PROJECTS
 ### Healthcare Patient Analysis
-[check out on Github] (link)
+[check out on Github](https://github.com/kathisnehith/Healthcare-Patient-Analysis)
 
 Implemented a comprehensive data-driven strategy for analyzing patient demographics, medical conditions, and treatment details in a healthcare dataset using SQL. This approach led to enhanced insights into patient behavior and treatment outcomes by identifying key metrics such as patient age distribution, gender demographics, insurance utilization, and medication usage patterns. The proposed analysis methodology offers a fully automated and flexible framework for healthcare providers and insurance companies to optimize resource allocation, improve patient care strategies, and enhance overall operational efficiency.
 
