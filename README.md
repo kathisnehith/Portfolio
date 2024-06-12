@@ -1,6 +1,10 @@
-# Data Analyst <img src="/images/PP.png" width="60" height="60"/>
+# Data Analyst
 
 ###  SQL Server | Python | Tableau | Microsoft office | BI | 
+
+## Education
+- Master's in Electical Engineering | The University of Texas at San Antonio (_May 2023_)
+- Bachelore's in Electronics Engineering | Amrita Vishwa Vidhyapeetham (_May 2021_)
 
 [<img src="/images/mail.png" width="40" height="40"/>](mailto:kathisnehithreddy@gmail.com)
 [<img src="/images/LinkedIn_logo.png" width="40" height="40"/>](https://www.linkedin.com/snehithreddykathi)
@@ -29,7 +33,7 @@ Executed a robust analysis of over a million real estate sales records using SQL
 Conducted an in-depth analysis of a dataset featuring 10,000 movies from The Movie Database (TMDb), encompassing user ratings, revenue figures, and detailed insights such as cast members and genres. With columns like 'cast' and 'genres' containing multiple values, the data's complexity was highlighted. The objective was to explore this multifaceted dataset to uncover meaningful insights into the film industry's dynamics. The analysis aimed to reveal relationships between factors like user ratings, revenue streams, genres, and cast compositions, providing a comprehensive understanding of these intricate interactions.
 
 
-### E-commerce company page A/B testing analysis
+### E-commerce company page A/B test Analysis
 [check out on Github](link)
 
 Executed an A/B test for an e-commerce company to evaluate a new webpage design aimed at increasing user conversions. Analyzed user interactions and conversion metrics for a control group with the original webpage and a treatment group with the redesigned version. Leveraged statistical techniques and rigorous data analysis to determine if the redesigned webpage resulted in a statistically significant increase in conversions compared to the control group.
@@ -40,7 +44,7 @@ Executed an A/B test for an e-commerce company to evaluate a new webpage design 
 This project focused on wrangling and analyzing data from the WeRateDogs Twitter account using Python and its libraries, documented in a Jupyter Notebook (Twitter_dogsrate.ipynb). The WeRateDogs account humorously rates dogs, often using numerators greater than 10 against a denominator of 10. The goal was to create insightful and trustworthy analyses and visualizations. The provided Twitter archive contained basic tweet data for over 5000 tweets, which was supplemented with additional data gathered using Twitter's API.
 
 
-### prosperLoans Exploratory analysis
+### ProsperLoans Exploratory Analysis
 [check out on Github](link)
 
 Launching into a comprehensive analysis, this project delves into Prosper's dataset, spanning 113,937 loan listings from Q4-2005 to Q1-2014. With 81 variables covering borrower profiles, loan performance, and listing specifics, our approach employs meticulous Exploratory Data Analysis (EDA) to uncover patterns and anomalies. By integrating robust data validation, our goal is to derive actionable insights empowering stakeholders to refine loan underwriting, fortify risk management, and optimize portfolio performance in peer-to-peer lending
