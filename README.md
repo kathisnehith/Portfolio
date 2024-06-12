@@ -1,9 +1,9 @@
-# Data Analyst <img src="/images/ProfilePicture.jpg" width="40" height="40"/>
+# Data Analyst <img src="/images/PP.png" width="60" height="60"/>
 
 ###  SQL Server | Python | Tableau | Microsoft office | BI | 
 
-<img src="/images/mail.png" width="20" height="20"/>  kathisnehithreddy@gmail.com
-<img src="/images/linkedin.png" width="30" height="30"/> https://www.linkedin.com/snehithreddykathi
+[<img src="/images/mail.png" width="40" height="40"/>](mailto:kathisnehithreddy@gmail.com)
+[<img src="/images/LinkedIn_logo.png" width="40" height="40"/>](https://www.linkedin.com/snehithreddykathi)
 
 ## PROJECTS
 ### Healthcare Patient Analysis
