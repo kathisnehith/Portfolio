@@ -1,18 +1,13 @@
 # Data Analyst  [<img src="/images/mail.png" width="30" height="30"/>](mailto:kathisnehithreddy@gmail.com)  [<img src="/images/LinkedIn_logo.png" width="30" height="30"/>](https://www.linkedin.com/snehithreddykathi)
 
 
-##
-<img src="/images/skillstaskbar.png"/>
-
-
-
 
 ## Education
 - **Master's** | The University of Texas at San Antonio (_May 2023_)
 - **Bachelore's**  | Amrita Vishwa Vidhyapeetham (_May 2021_)
 
-
-
+<img src="/images/skillstaskbar.png"/>
+ 
 ## PROJECTS
 ### [Healthcare Patient Analysis](https://github.com/kathisnehith/Healthcare-Patient-Analysis)
 
