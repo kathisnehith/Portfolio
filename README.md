@@ -1,7 +1,8 @@
 # Data Analyst  [<img src="/images/mail.png" width="30" height="30"/>](mailto:kathisnehithreddy@gmail.com)  [<img src="/images/LinkedIn_logo.png" width="30" height="30"/>](https://www.linkedin.com/snehithreddykathi)
+<img src="/images/skillstaskbar.png"/>
 
 
-###  SQL Server | Python | Tableau | Microsoft office | BI | 
+
 
 ## Education
 - **Master's** | The University of Texas at San Antonio (_May 2023_)
