@@ -12,7 +12,6 @@
 ### [Healthcare Patient Analysis](https://github.com/kathisnehith/Healthcare-Patient-Analysis)
 
 Implemented a comprehensive data-driven strategy for analyzing patient demographics, medical conditions, and treatment details in a healthcare dataset using SQL. This approach led to enhanced insights into patient behavior and treatment outcomes by identifying key metrics such as patient age distribution, gender demographics, insurance utilization, and medication usage patterns. The proposed analysis methodology offers a fully automated and flexible framework for healthcare providers and insurance companies to optimize resource allocation, improve patient care strategies, and enhance overall operational efficiency.
-# Hi there! <img src="https://media.giphy.com/media/hi-cute-waving-gif/giphy.gif" width="30"/>
 
 <img src="images/healthcare_Dashboard.png" width="1000" height="400"/>
 
