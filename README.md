@@ -9,17 +9,21 @@
 
  
 ## PROJECTS
+
+### [Autism-Behavior-Recognition-ML](https://github.com/kathisnehith/Autism-Behavior-Recognition-ML)
+
+Developed an advanced machine learning model to enhance early diagnosis and intervention for Autism Spectrum Disorder (ASD) by analyzing video recordings from clinical sessions. Utilized SQL for data preprocessing, Python and PyTorch for model implementation, and tools like FFmpeg, labelimg, Roboflow, Detectron2, and Video Swin Transformer for data extraction, annotation, and training. The project efficiently identified ASD-related behaviors with an accuracy of 86.3%, improved data preprocessing and labeling efficiency by 40%, and reduced manual annotation time by 50%. This project significantly aids clinicians by automating behavior detection, providing a reliable tool for accurate and timely ASD diagnosis.
+
+
 ### [Healthcare Patient Analysis](https://github.com/kathisnehith/Healthcare-Patient-Analysis)
 
 Implemented a comprehensive data-driven strategy for analyzing patient demographics, medical conditions, and treatment details in a healthcare dataset using SQL. This approach led to enhanced insights into patient behavior and treatment outcomes by identifying key metrics such as patient age distribution, gender demographics, insurance utilization, and medication usage patterns. The proposed analysis methodology offers a fully automated and flexible framework for healthcare providers and insurance companies to optimize resource allocation, improve patient care strategies, and enhance overall operational efficiency.
 
-<img src="images/healthcare_Dashboard.png" width="1000" height="400"/>
 
 ### [OPM Real Estate Sales Analysis](https://github.com/kathisnehith/Realestate-Sales-Analysis)
 
 Executed a robust analysis of over a million real estate sales records using SQL for data preprocessing, and Excel, Google Sheets, and Tableau for analysis and visualization. This approach identified key performance indicators such as total sales, total profits, and the number of properties sold, revealing significant correlations and trends. Rigorous data cleaning and validation ensured data integrity, making this project a reliable tool for market analysis. The resulting comprehensive dashboard provides stakeholders with valuable insights for strategic decision-making in real estate investments.
 
-<img src="images/Realestate_Dashboard.png" width="1000" height="400"/>
 
 
 
