@@ -1,4 +1,4 @@
-# Data Analyst  [<img src="/images/mail.png" width="30" height="30"/>](https://mail.google.com/a/kathisnehithreddy@gmail.com/mail/#compose)  [<img src="/images/LinkedIn_logo.png" width="30" height="30"/>](https://www.linkedin.com/snehithreddykathi/)
+# Data Analyst  [<img src="/images/mail.png" width="30" height="30"/>](https://mail.google.com/mail/u/0/?fs=1&to=kathisnehithreddy@gmail.com&tf=cm)  [<img src="/images/LinkedIn_logo.png" width="30" height="30"/>](https://www.linkedin.com/snehithreddykathi/)
 
 <img src="/images/skillstaskbar.png"/>
 
